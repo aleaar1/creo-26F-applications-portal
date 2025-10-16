@@ -189,7 +189,7 @@ function App() {
             <Card
               title="Employee Monitoring Board System"
               description="Track employee activity and board-wide status in real time."
-              linkHref="https://example.com/employee-monitoring"
+              linkHref="https://creotec-embs.vercel.app"
               badge="Available"
               manualState={[empManual, setEmpManual]}
             />
@@ -203,7 +203,7 @@ function App() {
             <Card
               title="Payroll Calculator (PRC)"
               description="Compute salaries, taxes, and deductions efficiently."
-              linkHref="https://example.com/payroll-calculator"
+              linkHref="https://creotec-prc.vercel.app"
               badge="Available"
               manualState={[prcManual, setPrcManual]}
             />
